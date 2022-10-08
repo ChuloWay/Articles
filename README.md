@@ -1,0 +1,1 @@
+An Assignment FROM WISDOM Technical Writers Class.
