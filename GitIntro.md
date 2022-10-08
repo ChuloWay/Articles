@@ -49,11 +49,10 @@ Inserts diagram
 
 ![Repo-Example](photos/pageclone.png)
 
-Image showing “first contributions” repository home
-
 * Select the "Code" indicated green button on the right. Upon doing this, a drop-down menu with the choices HTTPS, SSH, and GitHub CLI will appear, as seen in the image below.
 
-Image of the repo page and me trying to select the copy,
+![Repo-Example](photos/repocloneselect.png)
+
 * For this example, I'll choose the HTTPS option, which I switch to before selecting the copy icon.
 
 Next image of me selecting the http and tapping the copy icon.
