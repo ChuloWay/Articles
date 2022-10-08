@@ -103,11 +103,18 @@ How do we go about making a pull request?
 
 * You  will see a break down of files pushed and time spent and a message that your git push was successful. Visit GitHub once more to view your pushed branch.
 
+
+![Repo-Example](photos/gitPush.png)
+
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
-* You may see your new branch with changes on the right and the Master branch published by the repository owner on the left in two bars on this page after pressing the "compare and pull request" button. 
+![Repo-Example](photos/gitPush.png)
+
 
 * You can write a message explaining why you want to submit a pull request to the owner and possibly the modifications you made in the text box that is located below these bars. Following that, select "create pull request." The maintainer will then assess the work done in the developer's forked repository and make any comments for some adjustments to be made or successfully Merge the Pull request.
+
+![Repo-Example](photos/openPr.png)
+
 
 * You have successfully submitted a pull request; now you must wait for the repository maintainer to accept your request and publish the modification you made.
 
