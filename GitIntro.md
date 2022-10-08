@@ -2,6 +2,7 @@
 
 
 ## Table Of Content:
+
 Basic Introduction
 What Is GitHub?
 Why GitHub
@@ -61,7 +62,7 @@ Next image of me selecting the http and tapping the copy icon.
 
  * we navigate to a folder on our local machine and, while connected to the internet, enter the git clone command.
 
-git clone https://github.com/<Username>/<Repository-Name>.git
+git clone https :// github.com/ <Username> /<Repository-Name>. git
 
 * Doing this successfully i have cloned the remote Repository to my local machine.
 
