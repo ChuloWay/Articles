@@ -47,15 +47,15 @@ Inserts diagram
 
 * We start by searching for a project repository that interests us and clicking on it to view its details. For instance, if I search for "initial contributions," clicking on it displays the picture below.
 
-![Repo-Example](photos/pageclone.png)
+![Repo-Example](photos/pagecloneMain.png)
 
 * Select the "Code" indicated green button on the right. Upon doing this, a drop-down menu with the choices HTTPS, SSH, and GitHub CLI will appear, as seen in the image below.
 
-![Repo-Example](photos/repocloneselect.png)
+![Repo-Example](photos/repocloneselectMain.png)
 
 * For this example, I'll choose the HTTPS option, which I switch to before selecting the copy icon.
 
-![Repo-Example](photos/httpOption.png)
+![Repo-Example](photos/httpOptionMain.png)
 
 * Next i open my terminal , for this i will be making use of Git bash,
 
@@ -76,6 +76,8 @@ How do we go about making a pull request?
  ![Repo-Example](photos/forkRepoMain.png)
 
  ![Repo-Example](photos/createForkMain.png)
+
+ * If you go to your repository list you will see the forked repo amongst your repositories.
 
  ![Repo-Example](photos/MyForkedRepo.png)
 
