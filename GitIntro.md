@@ -73,11 +73,11 @@ How do we go about making a pull request?
 
 * Create a local clone by forking the main repository. The developer forks the main repository first, which they can clone onto their local system.
 
-* ![Repo-Example](photos/forkRepoMain.png)
+ ![Repo-Example](photos/forkRepoMain.png)
 
-* ![Repo-Example](photos/CreateForkMain.png)
+ ![Repo-Example](photos/createForkMain.png)
 
-* ![Repo-Example](photos/MyForkedRepo.png)
+ ![Repo-Example](photos/MyForkedRepo.png)
 
 * Open your Terminal, Git Bash
 
@@ -94,6 +94,8 @@ How do we go about making a pull request?
 * To view the changes you have made, type "git status" in the command line.
 
 * Then, enter "git add ." to include all the modifications you've made and tell git that you want to incorporate them in the following commit.
+
+![Repo-Example](photos/gitBashPr.png)
 
 * You should see a message summarizing the changes you made after typing "git commit -m 'The Commit Message Of The Changes Made' " and pressing Enter.
 
