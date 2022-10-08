@@ -71,13 +71,18 @@ A pull request, also known as a merge request, is an event that occurs in softwa
 
 How do we go about making a pull request?
 
-Will drop image at each step taken
-
 * Create a local clone by forking the main repository. The developer forks the main repository first, which they can clone onto their local system.
+![Repo-Example](photos/forkRepoMain.png)
+
+![Repo-Example](photos/CreateForkMain.png)
+
+![Repo-Example](photos/MyForkedRepo.png)
 
 * Open your Terminal, Git Bash
 
 * You then proceed to clone the remote repository to your local system, refer to the "how to clone" section above.
+
+![Repo-Example](photos/.png)
 
 * To add a new branch to the repository, type the command line "git checkout -b (name of the branch)".
 
