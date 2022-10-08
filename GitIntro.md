@@ -1,7 +1,7 @@
 # Introduction To GitHub
 
 
-## Table Of Content:
+## Table Of Content
 
 Basic Introduction
 What Is GitHub?
@@ -55,7 +55,7 @@ Inserts diagram
 
 * For this example, I'll choose the HTTPS option, which I switch to before selecting the copy icon.
 
-Next image of me selecting the http and tapping the copy icon.
+![Repo-Example](photos/httpOption.png)
 
 * Next i open my terminal , for this i will be making use of Git bash,
 
