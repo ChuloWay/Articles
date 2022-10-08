@@ -3,14 +3,14 @@
 
 ## Table Of Content
 
-Basic Introduction
-What Is GitHub?
-Why GitHub
-Git Vs GitHub
-Cloning In GitHub
-Pull Request
-Making A commit In GitHub
-GitHub Desktop Vs GitHub CLI
+* Basic Introduction
+* What Is GitHub?
+* Why GitHub
+* Git Vs GitHub
+* Cloning In GitHub
+* Pull Request
+* Making A commit In GitHub
+* GitHub Desktop Vs GitHub CLI
 
 ## Introduction
 
@@ -61,7 +61,7 @@ Inserts diagram
 
  * we navigate to a folder on our local machine and, while connected to the internet, enter the git clone command.
 
-git clone https :// github.com/ <Username> /<Repository-Name>. git
+![Repo-Example](photos/clone.png)
 
 * Doing this successfully i have cloned the remote Repository to my local machine.
 
