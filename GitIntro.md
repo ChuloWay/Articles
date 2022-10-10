@@ -37,13 +37,12 @@ Given that people from various parts of the world may interact, contribute to on
 ## Cloning In GitHub
 
  ### What you need
-A GitHub user account
-A terminal running bash, and
+* A GitHub user account
+* A terminal running bash, and
 git installed and configured on your computer.
 
 Git clone is a git command that creates a clone/copy of an existing repository in a new directory. Each branch in the cloned repository has a remote-tracking branch created for it as well. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
-Inserts diagram
 
 * We start by searching for a project repository that interests us and clicking on it to view its details. For instance, if I search for "initial contributions," clicking on it displays the picture below.
 
