@@ -109,8 +109,6 @@ How do we go about making a pull request?
 
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
-![Repo-Clone](photos/gitPush.png)
-
 
 * You can write a message explaining why you want to submit a pull request to the owner and possibly the modifications you made in the text box that is located below these bars. Following that, select "create pull request." The maintainer will then assess the work done in the developer's forked repository and make any comments for some adjustments to be made or successfully Merge the Pull request.
 
