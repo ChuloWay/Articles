@@ -82,7 +82,7 @@ How do we go about making a pull request?
 
 * Open your Terminal, Git Bash
 
-* You then proceed to clone the remote repository to your local system, refer to the "how to clone" section above.
+* You then proceed to clone the remote repository to your local system, as we have shown prior to this section.
 
 ![Repo-Clone](photos/forkClone.png)
 
