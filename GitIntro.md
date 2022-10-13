@@ -56,7 +56,7 @@ Git clone is a git command that creates a clone/copy of an existing repository i
 
 ![Repo-Clone](photos/pagecloneMain.png)
 
-* Select the "Code" indicated green button on the right. Upon doing this, a drop-down menu with the choices HTTPS, SSH, and GitHub CLI will appear, as seen in the image below.
+* Select the > Code indicated green button on the right. Upon doing this, a drop-down menu with the choices HTTPS, SSH, and GitHub CLI will appear, as seen in the image below.
 
 ![Repo-Clone](photos/repocloneselectMain.png)
 
@@ -94,21 +94,21 @@ How do we go about making a pull request?
 
 ![Repo-Clone](photos/forkClone.png)
 
-* To add a new branch to the repository, type the command line "git checkout -b (name of the branch)".
+* To add a new branch to the repository, type the command line ```git checkout -b (name of the branch)```.
 
 * Open the text editor Or Integrated Development Environment.
 
 * Make the necessary local changes. The developer can then apply the necessary modifications to the code, whether they are working to fix a problem or add a new function.
 
-* To view the changes you have made, type "git status" in the command line.
+* To view the changes you have made, type ```git status``` in the command line.
 
-* Then, enter "git add ." to include all the modifications you've made and tell git that you want to incorporate them in the following commit.
+* Then, enter ```git add .``` to include all the modifications you've made and tell git that you want to incorporate them in the following commit.
 
 ![Repo-Clone](photos/gitBashPr.png)
 
-* You should see a message summarizing the changes you made after typing "git commit -m 'The Commit Message Of The Changes Made' " and pressing Enter.
+* You should see a message summarizing the changes you made after typing ```git commit -m 'The Commit Message Of The Changes Made' ``` and pressing Enter.
 
-* Finally, enter the command "git push --set-upstream origin < branch name >."
+* Finally, enter the command ```git push --set-upstream origin < branch name >.```
 
 * You  will see a break down of files pushed and time spent and a message that your git push was successful. Visit GitHub once more to view your pushed branch.
 
