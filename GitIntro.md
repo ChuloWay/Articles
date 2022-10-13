@@ -131,7 +131,7 @@ How do we go about making a pull request?
 
 ## What Is Git Commit And How Do We Make Use Of It?
 
-The "git commit" command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
+The ```git commit``` command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
 Keep in mind that before using the "git commit" command, you must specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you must indicate the required modifications for inclusion using the "git add" command.
 
 We use ```git add <filename>``` to select the file to include, or ```git add . ``` to include all files in the directory., Then we commit using the git command.
