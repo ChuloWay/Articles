@@ -136,7 +136,7 @@ Keep in mind that before using the "git commit" command, you must specifically t
 
 We use ```git add <filename>``` to select the file to include, or ```git add . ``` to include all files in the directory., Then we commit using the git command.
 
-  git commit -m "commit message"; the hyphen with m indicates that we want to add a message with the commit.
+  ```git commit -m "commit message"``` the hyphen with m indicates that we want to add a message with the commit.
 
 ## GitHub Desktop Vs GitHub CLI
 
