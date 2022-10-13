@@ -135,7 +135,7 @@ We use "git add <filename>" to select the file to include, or "git add . " to in
 
 ## GitHub Desktop Vs GitHub CLI
 
-According to GitHub Official Documentation,
+<a src="https://docs.github.com/en/desktop" target="">According to GitHub Official Documentation,</a>
 GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.
 
 While GitHub CLI is short for GitHub Command Line
