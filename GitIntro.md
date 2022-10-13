@@ -20,6 +20,7 @@ GitHub is a term that is frequently used in discussions about software developme
 ## What is Github?
 
 To fully comprehend GitHub, we must first understand what git is.
+
 <a href="https://git-scm.com/" target="">According to its official documentation,</a>
  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 Therefore, GitHub is an online software development platform that makes use of Git, an open source version control technology used for project storage, tracking, and collaboration.
