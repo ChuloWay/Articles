@@ -14,7 +14,7 @@
 
 ## Introduction
 
-GitHub is a term that is frequently used in discussions about software development; in this post, we will learn what it is and some of the basic functions it can accomplish.
+GitHub is a term that is frequently used in discussions about software development, in this article we will learn what it is and some of the basic functions it can accomplish.
 
 
 ## What is Github?
@@ -128,6 +128,7 @@ How do we go about making a pull request?
 
 The "git commit" command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
 Keep in mind that before using the "git commit" command, you must specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you must indicate the required modifications for inclusion using the "git add" command.
+
 We use "git add <filename>" to select the file to include, or "git add . " to include all files in the directory., Then we commit using the git command.
 
   git commit -m "commit message"; the hyphen with m indicates that we want to add a message with the commit.
@@ -142,7 +143,7 @@ GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Acti
 
 ## Conclusion
 
-Learning how to use GitHub as a beginner in software development is essential to your career path. You must have a basic understanding of GitHub in order to network with other developers, benefit from their knowledge, and maybe land a job.
+Utilizing git and GitHub for projects increases productivity and improves teamwork and as a beginner in software development it is essential to your career path. 
 I sincerely hope that this article was useful in introducing you to Git and GitHub and explaining how they operate.
 
 
