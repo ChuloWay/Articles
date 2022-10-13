@@ -30,9 +30,15 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 
 ## Git Vs GitHub
 
-Git was first released in 2005 and is still maintained by Linux. It is a local version control system that enables developers to manage and track their projects through time. It is vital to remember that git is open source, which means it does not demand any payment and is free to use by anyone.
-GitHub is a web/cloud-based hosting service that utilizes git's version control features and allows you to manage its repositories. It was launched in 2008 and is maintained by Microsoft.
-Given that people from various parts of the world may interact, contribute to one another's code, and modify or enhance it, GitHub acts as a networking tool for online professionals. Participation and engagement are two concepts that describe the process of social coding.
+ **Git**                              | **GitHub**                                         
+:------------------------------------:|:--------------------------------------------------:
+ Git was first released in 2005       | GitHub was released in 2008                        
+ Git is maintained by Linux           | GitHub is maintained by Microsoft                  
+ It is a local version control system | GitHub is a web/cloud-based hosting service        
+ It is used in the Command Line       | GitHub has a graphical user interface              
+ It is Completely Free                | GitHub has a free plan and it also has a paid plan 
+
+
 
 ## Cloning In GitHub
 
