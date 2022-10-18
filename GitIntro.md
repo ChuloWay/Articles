@@ -71,15 +71,15 @@ Git clone is a Git command that creates a clone/copy of an existing repository i
 
 ![Repo-Clone](photos/clone.png)
 
-* Doing this successfully you have cloned the remote Repository to my local machine.
+* Doing this successfully you have cloned the remote Repository to your local machine.
 
 ## Pull Request
 
-A pull request, also known as a merge request, is an event that occurs in software development when a contributor/developer is ready to begin the process of integrating new code modifications with the main project repository.
+A pull request, commonly shortened to PR, is an event that occurs in development project when a contributor is ready to add the changes he/she made to the main project repository.
 
 How do you go about making a pull request?
 
-* Create a local clone by forking the main repository. The developer forks the main repository first, which they can clone onto their local system.
+* Create a local clone by forking the main repository. The contributor forks the main repository first, which they can clone onto their local system.
 
  ![Repo-Clone](photos/forkRepoMain.png)
 
@@ -91,15 +91,15 @@ How do you go about making a pull request?
 
 * Open your Terminal, Git Bash
 
-* You then proceed to clone the remote repository to your local system, as you have shown prior to this section.
+* You then proceed to clone the remote repository to your local system, as shown prior to this section.
 
 ![Repo-Clone](photos/forkClone.png)
 
 * To add a new branch to the repository, type the command line ```Git checkout -b (name of the branch)```.
 
-* Open the text editor Or Integrated Development Environment.
+* Open your text editor VScode.
 
-* Make the necessary local changes. The developer can then apply the necessary modifications to the code, whether they are working to fix a problem or add a new function.
+* Make the necessary local changes. you can then apply the necessary modifications to the code, whether you are working to fix a problem or add a new feature.
 
 * To view the changes you have made, type ```Git status``` in the command line.
 
@@ -122,7 +122,7 @@ How do you go about making a pull request?
 
 
 
-* You can write a message explaining why you want to submit a pull request to the owner and possibly the modifications you made in the text box that is located below these bars. Following that, select "create pull request." The maintainer will then assess the work done in the developer's forked repository and make any comments for some adjustments to be made or successfully Merge the Pull request.
+* You can write a message explaining why you want to submit a pull request to the owner and possibly the modifications you made in the text box that is located below . Following that, select "create pull request." The maintainer will then assess the work done in the your forked repository and make any comments for some adjustments to be made or successfully Merge the Pull request.
 
 ![Repo-Clone](photos/openPr.png)
 
