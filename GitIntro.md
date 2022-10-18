@@ -28,7 +28,7 @@ Therefore, GitHub is an online software development platform that makes use of G
 
 ## Why GitHub?
 
-Aside from being one of the biggest communities for programmers, using GitHub is cost-free if your project is publicly available and comes with a wiki and issue tracker that make it simple to provide more detailed documentation and obtain feedback on your work. To contribute, simply fork a project, make your modifications, and then send them a pull request via the GitHub youb interface; you will become acquainted with these terminologies as you progress.
+Aside from being one of the biggest communities for programmers, using GitHub is cost-free if your project is publicly available and comes with a wiki and issue tracker that make it simple to provide more detailed documentation and obtain feedback on your work.
 
 ## Git Vs GitHub
 
@@ -48,6 +48,7 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 * A GitHub user account
 * A terminal running bash, and
 Git installed and configured on your computer.
+* A Text-editor, for this article i wil be making use of ```VScode``` 
 
 Git clone is a Git command that creates a clone/copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
@@ -132,7 +133,7 @@ How do you go about making a pull request?
 ## What Is Git Commit And How Do you Make Use Of It?
 
 The ```Git commit``` command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
-Keep in mind that before using the "Git commit" command, you should specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you should indicate the required modifications for inclusion using the "Git add" command.
+Keep in mind that before using the ```Git commit``` command, you should specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you should indicate the required modifications for inclusion using the ```Git add``` command.
 
 you use ```Git add <filename>``` to select the file to include, or ```Git add . ``` to include all files in the folder., Then you commit using the Git command.
 
