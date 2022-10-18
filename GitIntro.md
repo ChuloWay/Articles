@@ -46,14 +46,14 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 
  ### What you need
 * A GitHub user account
-* A terminal running bash, and
-Git installed and configured on your computer.
+* GitBash, and
+Git installed and configured on your computer, if you are having problem setting it up here is an article to help you out.
 * A Text-editor, for this article i wil be making use of ```VScode``` 
 
 Git clone is a Git command that creates a clone/copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
 
-* you start by searching for a project repository that interests us and clicking on it to view its details. For instance, if i search for ```initial contributions```, clicking on it displays the picture below.
+* you start by searching for a project repository that interests you and clicking on it to view its details. For instance, if you search for ```initial contributions```, clicking on it displays the picture below.
 
 ![Repo-Clone](photos/pagecloneMain.png)
 
@@ -61,17 +61,17 @@ Git clone is a Git command that creates a clone/copy of an existing repository i
 
 ![Repo-Clone](photos/repocloneselectMain.png)
 
-* For this Clone, I'll choose the HTTPS option, which I switch to before selecting the copy icon.
+* For this Clone, you will choose the HTTPS option, which you switch to before selecting the copy icon.
 
 ![Repo-Clone](photos/httpOptionMain.png)
 
-* Next i open my terminal , for this i will be making use of Git bash,
+* Next you open your terminal, on your home screen you locate the search icon on the taskbar and type in ```GitBash```.
 
- * you navigate to a folder on our local machine and, while connected to the internet, enter the Git clone command.
+ * you navigate to a folder on your local machine by using the ```cd``` command , on reaching your desired folder path, while connected to the internet, enter the Git clone command.
 
 ![Repo-Clone](photos/clone.png)
 
-* Doing this successfully i have cloned the remote Repository to my local machine.
+* Doing this successfully you have cloned the remote Repository to my local machine.
 
 ## Pull Request
 
