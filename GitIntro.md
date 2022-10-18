@@ -17,16 +17,16 @@
 GitHub is a term that is frequently used in discussions about software development, in this article you will learn what it is and some of the basic functions it can accomplish.
 
 
-## What is Github?
+## What is GitHub?
 
-To fully comprehend GitHub, you should first understand what git is.
+To fully comprehend GitHub, you should first understand what Git is.
 
 <a href="https://git-scm.com/" target="">According to its official documentation,</a>
  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 Therefore, GitHub is an online software development platform that makes use of Git, an open source version control technology used for project storage, tracking, and collaboration.
 
 
-## Why Github?
+## Why GitHub?
 
 Aside from being one of the biggest communities for programmers, using GitHub is cost-free if your project is publicly available and comes with a wiki and issue tracker that make it simple to provide more detailed documentation and obtain feedback on your work. To contribute, simply fork a project, make your modifications, and then send them a pull request via the GitHub youb interface; you will become acquainted with these terminologies as you progress.
 
@@ -47,12 +47,12 @@ Aside from being one of the biggest communities for programmers, using GitHub is
  ### What you need
 * A GitHub user account
 * A terminal running bash, and
-git installed and configured on your computer.
+Git installed and configured on your computer.
 
-Git clone is a git command that creates a clone/copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
+Git clone is a Git command that creates a clone/copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
 
-* you start by searching for a project repository that interests us and clicking on it to view its details. For instance, if I search for ```initial contributions```, clicking on it displays the picture below.
+* you start by searching for a project repository that interests us and clicking on it to view its details. For instance, if i search for ```initial contributions```, clicking on it displays the picture below.
 
 ![Repo-Clone](photos/pagecloneMain.png)
 
@@ -66,7 +66,7 @@ Git clone is a git command that creates a clone/copy of an existing repository i
 
 * Next i open my terminal , for this i will be making use of Git bash,
 
- * you navigate to a folder on our local machine and, while connected to the internet, enter the git clone command.
+ * you navigate to a folder on our local machine and, while connected to the internet, enter the Git clone command.
 
 ![Repo-Clone](photos/clone.png)
 
@@ -94,26 +94,26 @@ How do you go about making a pull request?
 
 ![Repo-Clone](photos/forkClone.png)
 
-* To add a new branch to the repository, type the command line ```git checkout -b (name of the branch)```.
+* To add a new branch to the repository, type the command line ```Git checkout -b (name of the branch)```.
 
 * Open the text editor Or Integrated Development Environment.
 
 * Make the necessary local changes. The developer can then apply the necessary modifications to the code, whether they are working to fix a problem or add a new function.
 
-* To view the changes you have made, type ```git status``` in the command line.
+* To view the changes you have made, type ```Git status``` in the command line.
 
-* Then, enter ```git add .``` to include all the modifications you've made and tell git that you want to incorporate them in the following commit.
+* Then, enter ```Git add .``` to include all the modifications you've made and tell Git that you want to incorporate them in the following commit.
 
-![Repo-Clone](photos/gitBashPr.png)
+![Repo-Clone](photos/GitBashPr.png)
 
-* You should see a message summarizing the changes you made after typing ```git commit -m 'The Commit Message Of The Changes Made' ``` and pressing Enter.
+* You should see a message summarizing the changes you made after typing ```Git commit -m 'The Commit Message Of The Changes Made' ``` and pressing Enter.
 
-* Finally, enter the command ```git push --set-upstream origin < branch name >.```
+* Finally, enter the command ```Git push --set-upstream origin < branch name >.```
 
-* You  will see a break down of files pushed and time spent and a message that your git push was successful. Visit GitHub once more to view your pushed branch.
+* You  will see a break down of files pushed and time spent and a message that your Git push was successful. Visit GitHub once more to view your pushed branch.
 
 
-![Repo-Clone](photos/gitPush.png)
+![Repo-Clone](photos/GitPush.png)
 
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
@@ -131,16 +131,16 @@ How do you go about making a pull request?
 
 ## What Is Git Commit And How Do you Make Use Of It?
 
-The ```git commit``` command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
-Keep in mind that before using the "git commit" command, you should specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you should indicate the required modifications for inclusion using the "git add" command.
+The ```Git commit``` command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
+Keep in mind that before using the "Git commit" command, you should specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you should indicate the required modifications for inclusion using the "Git add" command.
 
-you use ```git add <filename>``` to select the file to include, or ```git add . ``` to include all files in the folder., Then you commit using the git command.
+you use ```Git add <filename>``` to select the file to include, or ```Git add . ``` to include all files in the folder., Then you commit using the Git command.
 
-  ```git commit -m "commit message"``` the hyphen with m indicates that you want to add a message with the commit.
+  ```Git commit -m "commit message"``` the hyphen with m indicates that you want to add a message with the commit.
 
 ## GitHub Desktop Vs GitHub CLI
 
-<a href="https://docs.github.com/en/desktop" target="">According to GitHub Official Documentation,</a>
+<a href="https://docs.GitHub.com/en/desktop" target="">According to GitHub Official Documentation,</a>
 GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a youb browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.
 
 While GitHub CLI is short for GitHub Command Line
@@ -148,7 +148,7 @@ GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Acti
 
 ## Conclusion
 
-Utilizing git and GitHub for projects increases productivity and improves teamwork and as a beginner in software development it is essential to your career path. 
+Utilizing Git and GitHub for projects increases productivity and improves teamwork and as a beginner in software development it is essential to your career path. 
 I sincerely hope that this article was useful in introducing you to Git and GitHub and explaining how they operate.
 
 
