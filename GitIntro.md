@@ -81,9 +81,9 @@ How do you go about making a pull request?
 
 * Create a local clone by forking the main repository. The contributor forks the main repository first, which they can clone onto their local system.
 
- ![Repo-Clone](photos/forkRepoMain.png)
+ ![Repo-Clone](photos/forkRepo.png)
 
- ![Repo-Clone](photos/createForkMain.png)
+ ![Repo-Clone](photos/CreateForkEdited.png)
 
  * If you go to your repository list you will see the forked repo amongst your repositories.
 
@@ -118,7 +118,7 @@ How do you go about making a pull request?
 
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
-![Repo-Clone](photos/compareAndPrMain.png)
+![Repo-Clone](photos/CandP.png)
 
 
 
