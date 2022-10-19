@@ -48,7 +48,7 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 * A GitHub user account
 * GitBash, and
 Git installed and configured on your computer, if you are having problem setting it up here is a Link article to help you out.
-* A Text-editor, for this article i wil be making use of ```VScode``` 
+* A Text-editor, for this article i will be making use of ```VScode``` 
 
 Git clone is a Git command that creates a copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
@@ -67,7 +67,7 @@ Git clone is a Git command that creates a copy of an existing repository in a ne
 
 * Next you open your terminal, on your home screen you locate the search icon on the taskbar and type in ```GitBash```.
 
- * You navigate to a folder on your local machine by using the ```cd``` command , on reaching your desired folder path, while connected to the internet, enter the Git clone command.
+ * Once GitBash has been opened, you navigate to a folder on your local machine by using the ```cd``` command, on reaching your desired folder path, while connected to the internet, enter the Git clone command.
 
 ![Repo-Clone](photos/clone.png)
 
@@ -85,9 +85,9 @@ How do you go about making a pull request?
 
  ![Repo-Clone](photos/CreateForkEdited.png)
 
- * If you go to your repository list you will see the forked repo amongst your repositories.
+ * If you go to your repository list you will see the forked repo amongst your repositories on GitHub
 
- ![Repo-Clone](photos/MyForkedRepo.png)
+ ![Repo-Clone](photos/MyRepo.png)
 
 * Open your Terminal, Git Bash
 
