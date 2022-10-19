@@ -59,11 +59,11 @@ Git clone is a Git command that creates a copy of an existing repository in a ne
 
 * Select the ```Code``` indicated green button on the right. Upon doing this, a drop-down menu with the choices``` HTTPS```, ```SSH```, and ```GitHub CLI``` will appear, as seen in the image below.
 
-![Repo-Clone](photos/repocloneselectMain.png)
+![Repo-Clone](photos/selectCode.png)
 
 * For this Clone, you will choose the ```HTTPS``` option, which you switch to before selecting the copy icon.
 
-![Repo-Clone](photos/httpOptionMain.png)
+![Repo-Clone](photos/httpsOption.png)
 
 * Next you open your terminal, on your home screen you locate the search icon on the taskbar and type in ```GitBash```.
 
