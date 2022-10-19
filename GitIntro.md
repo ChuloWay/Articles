@@ -142,12 +142,14 @@ You make use of ```git add <filename>``` to select the file to include, or ```gi
 
 
 ## GitHub Desktop Vs GitHub CLI
+ **GitHub Desktop**                                                                       | **GitHub CLI**                                                                      
+------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------
+ It enables you to interact with GitHub using a GUI                                       | It is purely a command line tool                                                    
+ It is simple to use                                                                      | It requires you knowing git commands                                                
+ It can't handle complex tasks\. The Help Manual advises to use command\-line Git instead | It gives access to every single git command available and handles complex functions 
+                                                                                          |                                                                                     
+                                                                                          |                                                                                     
 
-<a href="https://docs.GitHub.com/en/desktop" target="">According to GitHub Official Documentation,</a>
-GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a youb browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.
-
-While GitHub CLI is short for GitHub Command Line
-GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place.
 
 ## Conclusion
 
