@@ -105,7 +105,7 @@ How do you go about making a pull request?
 
 * Then, enter ```Git add .``` to include all the modifications you've made and tell Git that you want to incorporate them in the following commit.
 
-![Repo-Clone](photos/GitBashPr.png)
+![Repo-Clone](photos/gitBashPr.png)
 
 * You should see a message summarizing the changes you made after typing ```Git commit -m 'The Commit Message Of The Changes Made' ``` and pressing Enter.
 
