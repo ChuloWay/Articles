@@ -105,7 +105,7 @@ How do you go about making a pull request?
 
 * Then, enter ```Git add .``` to include all the modifications you've made and tell Git that you want to incorporate them in the following commit.
 
-![Repo-Clone](photos/gitBashPr.png)
+![Repo-Clone](photos/gitBash.png)
 
 * You should see a message summarizing the changes you made after typing ```Git commit -m 'The Commit Message Of The Changes Made' ``` and pressing Enter.
 
@@ -114,7 +114,7 @@ How do you go about making a pull request?
 * You  will see a break down of files pushed and time spent and a message that your Git push was successful. Visit GitHub once more to view your pushed branch.
 
 
-![Repo-Clone](photos/GitPush.png)
+![Repo-Clone](photos/gitPush.png)
 
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
