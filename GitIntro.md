@@ -139,6 +139,9 @@ You make use of ```Git add <filename>``` to select the file to include, or ```Gi
 
   ```Git commit -m "commit message"``` the hyphen with m indicates that you want to add a message with the commit.
 
+  ![Repo-Clone](photos/commitExample.png)
+
+
 ## GitHub Desktop Vs GitHub CLI
 
 <a href="https://docs.GitHub.com/en/desktop" target="">According to GitHub Official Documentation,</a>
