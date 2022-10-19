@@ -114,7 +114,7 @@ How do you go about making a pull request?
 * You  will see a break down of files pushed and time spent and a message that your Git push was successful. Visit GitHub once more to view your pushed branch.
 
 
-![Repo-Clone](photos/gitPush.png)
+![Repo-Clone](photos/pushCode.png)
 
 * Next You Go to your forked repository on GitHub and click on the right-hand side of the new branch to reveal a green button labeled "compare and pull request." Click that button to continue.
 
