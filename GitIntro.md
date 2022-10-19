@@ -47,7 +47,7 @@ Aside from being one of the biggest communities for programmers, using GitHub is
  ### What you need
 * A GitHub user account
 * GitBash, and
-Git installed and configured on your computer, if you are having problem setting it up here is an article to help you out.
+Git installed and configured on your computer, if you are having problem setting it up here is a Link article to help you out.
 * A Text-editor, for this article i wil be making use of ```VScode``` 
 
 Git clone is a Git command that creates a copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
@@ -61,7 +61,7 @@ Git clone is a Git command that creates a copy of an existing repository in a ne
 
 ![Repo-Clone](photos/repocloneselectMain.png)
 
-* For this Clone, you will choose the HTTPS option, which you switch to before selecting the copy icon.
+* For this Clone, you will choose the ```HTTPS``` option, which you switch to before selecting the copy icon.
 
 ![Repo-Clone](photos/httpOptionMain.png)
 
