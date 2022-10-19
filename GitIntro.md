@@ -87,7 +87,7 @@ How do you go about making a pull request?
 
  * If you go to your repository list you will see the forked repo amongst your repositories on GitHub
 
- ![Repo-Clone](photos/MyRepo.png)
+ ![Repo-Clone](photos/myRepo.png)
 
 * Open your Terminal, Git Bash
 
