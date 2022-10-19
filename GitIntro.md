@@ -147,8 +147,6 @@ You make use of ```git add <filename>``` to select the file to include, or ```gi
  It enables you to interact with GitHub using a GUI                                       | It is purely a command line tool                                                    
  It is simple to use                                                                      | It requires you knowing git commands                                                
  It can't handle complex tasks\. The Help Manual advises to use command\-line Git instead | It gives access to every single git command available and handles complex functions 
-                                                                                          |                                                                                     
-                                                                                          |                                                                                     
 
 
 ## Conclusion
