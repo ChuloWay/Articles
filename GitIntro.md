@@ -36,7 +36,7 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 :------------------------------------:|:--------------------------------------------------:
  Git was first released in 2005       | GitHub was released in 2008                        
  Git is maintained by Linux           | GitHub is maintained by Microsoft                  
- It is a local version control system | GitHub is a youb/cloud-based hosting service        
+ It is a local version control system | GitHub is a web-based hosting service        
  It is used in the Command Line       | GitHub has a graphical user interface              
  It is Completely Free                | GitHub has a free plan and it also has a paid plan 
 
@@ -50,14 +50,14 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 Git installed and configured on your computer, if you are having problem setting it up here is an article to help you out.
 * A Text-editor, for this article i wil be making use of ```VScode``` 
 
-Git clone is a Git command that creates a clone/copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
+Git clone is a Git command that creates a copy of an existing repository in a new folder. Each branch in the cloned repository has a remote-tracking branch created for it as youll. To obtain a development copy of an already-existing central repository, users most frequently use this command.
 
 
 * you start by searching for a project repository that interests you and clicking on it to view its details. For instance, if you search for ```initial contributions```, clicking on it displays the picture below.
 
 ![Repo-Clone](photos/pagecloneMain.png)
 
-* Select the ```Code``` indicated green button on the right. Upon doing this, a drop-down menu with the choices HTTPS, SSH, and GitHub CLI will appear, as seen in the image below.
+* Select the ```Code``` indicated green button on the right. Upon doing this, a drop-down menu with the choices``` HTTPS```, ```SSH```, and ```GitHub CLI``` will appear, as seen in the image below.
 
 ![Repo-Clone](photos/repocloneselectMain.png)
 
@@ -67,7 +67,7 @@ Git clone is a Git command that creates a clone/copy of an existing repository i
 
 * Next you open your terminal, on your home screen you locate the search icon on the taskbar and type in ```GitBash```.
 
- * you navigate to a folder on your local machine by using the ```cd``` command , on reaching your desired folder path, while connected to the internet, enter the Git clone command.
+ * You navigate to a folder on your local machine by using the ```cd``` command , on reaching your desired folder path, while connected to the internet, enter the Git clone command.
 
 ![Repo-Clone](photos/clone.png)
 
@@ -135,7 +135,7 @@ How do you go about making a pull request?
 The ```Git commit``` command is used to save your changes to the local repository after making any necessary changes to the project you are working on.
 Keep in mind that before using the ```Git commit``` command, you should specifically tell Git which modifications you want to include. This implies that just because a file has been modified, it won't necessarily be added to the subsequent commit. Instead, you should indicate the required modifications for inclusion using the ```Git add``` command.
 
-you use ```Git add <filename>``` to select the file to include, or ```Git add . ``` to include all files in the folder., Then you commit using the Git command.
+You make use of ```Git add <filename>``` to select the file to include, or ```Git add . ``` to include all files in the folder., Then you commit using the Git command.
 
   ```Git commit -m "commit message"``` the hyphen with m indicates that you want to add a message with the commit.
 
