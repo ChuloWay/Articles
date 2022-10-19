@@ -55,7 +55,7 @@ Git clone is a Git command that creates a copy of an existing repository in a ne
 
 * you start by searching for a project repository that interests you and clicking on it to view its details. For instance, if you search for ```initial contributions```, clicking on it displays the picture below.
 
-![Repo-Clone](photos/pagecloneMain.png)
+![Repo-Clone](photos/firstcontribution.png)
 
 * Select the ```Code``` indicated green button on the right. Upon doing this, a drop-down menu with the choices``` HTTPS```, ```SSH```, and ```GitHub CLI``` will appear, as seen in the image below.
 
