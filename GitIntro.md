@@ -124,7 +124,7 @@ How do you go about making a pull request?
 
 * You can write a message explaining why you want to submit a pull request to the owner and possibly the modifications you made in the text box that is located below . Following that, select "create pull request." The maintainer will then assess the work done in the your forked repository and make any comments for some adjustments to be made or successfully Merge the Pull request.
 
-![Repo-Clone](photos/openPr.png)
+![Repo-Clone](photos/makePr.png)
 
 
 * You have successfully submitted a pull request; now you should wait for the repository maintainer to accept your request and publish the modification you made.
