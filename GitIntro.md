@@ -32,6 +32,8 @@ Aside from being one of the biggest communities for programmers, using GitHub is
 
 ## Git Vs GitHub
 
+Though the two complement each other, here are some differences to help you understand what they are.
+
  **Git**                              | **GitHub**                                         
 :------------------------------------:|:--------------------------------------------------:
  Git was first released in 2005       | GitHub was released in 2008                        
